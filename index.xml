@@ -6,19 +6,19 @@
 		<description>Recent content on arnostrouwen.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Tue, 13 Apr 2021 04:36:41 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://arnostrouwen.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Mypost</title>
-			<link>https://arnostrouwen.github.io/posts/mypost/</link>
-			<pubDate>Tue, 13 Apr 2021 04:36:41 +0200</pubDate>
+			<title>Dynamic experimental design in 100 lines of Julia code</title>
+			<link>https://arnostrouwen.github.io/posts/dynamic-experimental-design/</link>
+			<pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://arnostrouwen.github.io/posts/mypost/</guid>
+			<guid>https://arnostrouwen.github.io/posts/dynamic-experimental-design/</guid>
 			<description>
 			
-				
+				 MathJax.Hub.Config({ tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}, TeX: { equationNumbers: { autoNumber: "AMS" } } });    pre.hljl { …
 			
 			</description>
 		</item>
